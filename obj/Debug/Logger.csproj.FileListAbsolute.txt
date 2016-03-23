@@ -1,0 +1,9 @@
+c:\users\stelaivanova\documents\visual studio 2013\Projects\SolidLogger\Logger\bin\Debug\Logger.exe.config
+c:\users\stelaivanova\documents\visual studio 2013\Projects\SolidLogger\Logger\bin\Debug\Logger.exe
+c:\users\stelaivanova\documents\visual studio 2013\Projects\SolidLogger\Logger\bin\Debug\Logger.pdb
+c:\users\stelaivanova\documents\visual studio 2013\Projects\SolidLogger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+c:\users\stelaivanova\documents\visual studio 2013\Projects\SolidLogger\Logger\obj\Debug\Logger.exe
+c:\users\stelaivanova\documents\visual studio 2013\Projects\SolidLogger\Logger\obj\Debug\Logger.pdb
+E:\OT_C\Projects\SolidLogger\Logger\bin\Debug\Logger.exe.config
+E:\OT_C\Projects\SolidLogger\Logger\obj\Debug\Logger.exe
+E:\OT_C\Projects\SolidLogger\Logger\obj\Debug\Logger.pdb
